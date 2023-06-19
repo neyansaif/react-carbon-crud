@@ -1,0 +1,24 @@
+.hero {
+   padding: 20px 0 40px 0;
+   color: #746c6c;
+}
+
+.element {
+   background-color: #f0f0f0;
+   padding: 20px;
+   padding-right: 120px;
+
+   &:hover {
+      background-color: #ccc;
+   }
+}
+
+.element h3 {
+   color: black;
+}
+
+@media screen and (max-width: 767px) {
+   .element {
+     padding: 20px;
+   }
+}

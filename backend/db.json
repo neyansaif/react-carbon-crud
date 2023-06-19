@@ -1,0 +1,103 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "ingredient": "Chicken",
+      "category": "Protein",
+      "calories": 320,
+      "fat": 8,
+      "protein": 7,
+      "carbs": 4
+    },
+    {
+      "id": 2,
+      "ingredient": "Beef",
+      "category": "Protein",
+      "calories": 250,
+      "fat": 15,
+      "protein": 20,
+      "carbs": 0
+    },
+    {
+      "id": 3,
+      "ingredient": "Salmon",
+      "category": "Protein",
+      "calories": 280,
+      "fat": 12,
+      "protein": 22,
+      "carbs": 0
+    },
+    {
+      "id": 4,
+      "ingredient": "Tofu",
+      "category": "Protein",
+      "calories": 140,
+      "fat": 8,
+      "protein": 15,
+      "carbs": 5
+    },
+    {
+      "id": 5,
+      "ingredient": "Avocado",
+      "category": "Fat",
+      "calories": 160,
+      "fat": 15,
+      "protein": 2,
+      "carbs": 9
+    },
+    {
+      "id": 6,
+      "ingredient": "Olive Oil",
+      "category": "Fat",
+      "calories": 120,
+      "fat": 14,
+      "protein": 0,
+      "carbs": 0
+    },
+    {
+      "id": 7,
+      "ingredient": "Almonds",
+      "category": "Fat",
+      "calories": 160,
+      "fat": 14,
+      "protein": 6,
+      "carbs": 3
+    },
+    {
+      "id": 8,
+      "ingredient": "Rice",
+      "category": "Carbs",
+      "calories": 210,
+      "fat": 0,
+      "protein": 4,
+      "carbs": 46
+    },
+    {
+      "id": 9,
+      "ingredient": "Quinoa",
+      "category": "Carbs",
+      "calories": 220,
+      "fat": 4,
+      "protein": 8,
+      "carbs": 39
+    },
+    {
+      "id": 10,
+      "ingredient": "Sweet Potato",
+      "category": "Carbs",
+      "calories": 180,
+      "fat": 0,
+      "protein": 4,
+      "carbs": 41
+    },
+    {
+      "ingredient": "Chicken",
+      "category": "protein",
+      "calories": "1",
+      "fat": "2",
+      "protein": "3",
+      "carbs": "4",
+      "id": 11
+    }
+  ]
+}
